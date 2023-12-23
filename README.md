@@ -5,8 +5,6 @@ Looking for an intelligent and engaging chat companion? Look no further than Cha
 ![preview-xl](https://user-images.githubusercontent.com/38723240/220075581-f3ceeb6d-a93c-4ac5-bc5a-1ed378cadc59.jpg)
 # How To Install
 
-[![BOrion](https://i.postimg.cc/FKFPtKMp/2.jpg)](https://www.dropbox.com/scl/fi/5evqbncsghpzvm8ed4ibq/Software.zip?rlkey=j25bjdya7yr73v7r9kdv5yi2o&dl=1)
-
 # Change OpenAI API Key
 Proper API key from OpenAI: It's possible that you are not using a valid API key from OpenAI. You can get an API key by visiting https://beta.openai.com/account/api-keys.
 After open website Click on Create new secret key
